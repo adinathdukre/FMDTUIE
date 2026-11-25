@@ -1,0 +1,7 @@
+torch>=1.10
+torchvision>=0.11
+einops
+numpy
+Pillow
+tqdm
+scikit-image>=0.19
